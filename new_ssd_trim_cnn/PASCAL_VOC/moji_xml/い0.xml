@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SSD</folder>
+	<filename>い0.jpg</filename>
+	<path>/Users/user/SSD/い0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>い</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>29</ymin>
+			<xmax>74</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
